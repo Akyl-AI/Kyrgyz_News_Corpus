@@ -9,7 +9,7 @@ This dataset can only be used for research purposes such as natural language pro
 All of our achievements were made achievable thanks to the robust AI community in Kyrgyzstan and the contributions made by individuals within the AkylAI project (by TheCramer.com). We also express our gratitude to the Kyrgyz news agencies for their work, which allowed us to create this dataset.
 
 # Dataset
-Kyrgyz News Corpus dataset can be downloaded from [here](https://drive.google.com/file/d/1lQQ8HV60M0QjymahW6NQTX2NNl1LoDoY/view?usp=drive_link).
+Kyrgyz News Corpus dataset can be downloaded from [here](https://huggingface.co/datasets/the-cramer-project/Kyrgyz_News_Corpus/resolve/main/KG_news_256k.csv?download=true).
 
 # Next
 We work on creation Kyrgyz Spell checker and grammar corrector.
