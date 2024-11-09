@@ -1,4 +1,4 @@
-# Kyrgyz_News_Corpus
+# Kyrgyz_news_corpus
 The Kyrgyz News Corpus dataset is a collection of news in the Kyrgyz language collected from various news sites using web scraping and contains 256364 news.
 
 This corpus contains news on various topics, including politics, economics, culture, sports and others. Each entry in the dataset is a separate news item, including the text and the source.
